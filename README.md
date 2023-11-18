@@ -36,7 +36,7 @@ git clone https://github.com/SainiAditya1/Backend-Internship-Assignment-.git
 4. Run .
 
 ```bash
-cd qustion-paper-gen
+cd Backend-Internship-Assignment-
 
 node main.js
 ```
